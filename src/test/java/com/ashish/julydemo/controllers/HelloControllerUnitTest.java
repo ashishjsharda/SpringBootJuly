@@ -5,7 +5,6 @@ import org.springframework.ui.Model;
 import org.springframework.validation.support.BindingAwareModelMap;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 public class HelloControllerUnitTest {
 
     @Test
